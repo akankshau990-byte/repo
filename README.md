@@ -1,2 +1,2 @@
 # repo
- new repo
+This repo is for bages
